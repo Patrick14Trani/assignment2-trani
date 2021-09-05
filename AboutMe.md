@@ -19,4 +19,12 @@ This is a quick table of food/drinks I suggest people try. It has a variety of p
 | Pot of Gold (Mangocolada) | Applebees | $5.00 |
 | Smashburger | Made by my friend Aaron | Free |
 | Any Pizza | Chester's Bakery in Fairfield Vermont | $10.00 |
- 
+
+---
+
+### Quotes I enjoy
+
+> "Where are you going chief?
+> "To give the covenant back their bomb" - Master Chief 'Halo 2'
+
+>"All your life, you'll meet people that only want to break you down. Forget them, stand strong with the people who build you up." - Markiplier
