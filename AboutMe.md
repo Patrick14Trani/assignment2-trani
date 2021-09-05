@@ -6,3 +6,17 @@ Aside from being a computer student who holes up and plays skyrim waiting for el
 
 Also... I own this
 ![Hey you, finally awake?](/pic.jpg)
+
+---
+
+### Food and Drinks I would suggest
+
+This is a quick table of food/drinks I suggest people try. It has a variety of probably basic options since I dont eat out at a lot of places with interesting menu items.
+
+| Food/Drink | Location | Price |
+| ---------- | -------- | ----- |
+| Chicken and Shrimp | Kobe Steakhouse of Japan | $30.00 |
+| Pot of Gold (Mangocolada) | Applebees | $5.00 |
+| Smashburger | Made by my friend Aaron | Free |
+| Any Pizza | Chester's Bakery in Fairfield Vermont | $10.00 |
+ 
