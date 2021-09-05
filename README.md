@@ -27,3 +27,6 @@ It is an amazing place, although expensive, for star wars fans to have a good ti
 - Your star wars encyclopedia to read along the way
 - The 6 good movies and the if your feeling like you'll have too much fun then bring the last 3 as well. 
 - Several months of saved up money for overpriced souveniers and food/drink.
+
+
+Read here for more stuff **[about me](/AboutMe.md)**.
